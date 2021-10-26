@@ -2,3 +2,6 @@ activities filter=lfs diff=lfs merge=lfs -text
 activities/videos/frog-home.mp4 filter=lfs diff=lfs merge=lfs -text
 frog-home.mp4 filter=lfs diff=lfs merge=lfs -text
 frog-home.html filter=lfs diff=lfs merge=lfs -text
+activities/pictures/frog-home.jpg filter=lfs diff=lfs merge=lfs -text
+activities/frog-home.html filter=lfs diff=lfs merge=lfs -text
+index.html filter=lfs diff=lfs merge=lfs -text
