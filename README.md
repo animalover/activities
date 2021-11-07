@@ -1,1 +1,3 @@
 # activities
+
+Activities for website
